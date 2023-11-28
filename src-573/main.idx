@@ -3,52 +3,53 @@
                                        573.1-2 SECTION
 *****************************************************************************************************}
 
-\indexentry{PEP|book{1}}{18}
-\indexentry{Python!Interpreter|book{1}}{19}
-\indexentry{Print|book{1}}{26}
-\indexentry{Print!Format Specifier|book{1}}{65-66}
-\indexentry{Variable|book{1}}{29}
-\indexentry{Function|book{1}}{93}
-\indexentry{Assignment|book{1}}{32}
-\indexentry{Types!Reassign|book{1}}{33}
-\indexentry{Operators!Math|book{1}}{35}
-\indexentry{Math Operators|book{1}}{35}
-\indexentry{base2|book{1}}{38}
-\indexentry{base16|book{1}}{38}
-\indexentry{Operators!Bit|book{1}}{39}
-\indexentry{bit math operators|book{1}}{39}
-\indexentry{Strings|book{1}}{62}
-\indexentry{Strings!.format|book{1}}{64}
-\indexentry{Strings!fstring|book{1}}{67}
-\indexentry{Strings!cstyle|book{1}}{68}
-\indexentry{Strings!raw strings|book{1}}{69}
-\indexentry{Bytes|book{1}}{70}
-\indexentry{ASCII|book{1}}{72}
-\indexentry{16bit unicode|book{1}}{73}
-\indexentry{utf8|book{1}}{74}
-\indexentry{String!convert bytes|book{1}}{75}
-\indexentry{Bytes!convert string|book{1}}{75}
-\indexentry{Strings!encoding|book{1}}{76}
-\indexentry{Strings!encoders and decoders|book{1}}{86}
-\indexentry{Integers!encoding|book{1}}{78}
-\indexentry{Integers!decoding|book{1}}{78}
-\indexentry{chr|book{1}}{78}
-\indexentry{unichr|book{1}}{78}
-\indexentry{ord|book{1}}{78}
-\indexentry{Strings!slicing|book{1}}{79}
-\indexentry{Strings!methods|book{1}}{82}
-\indexentry{Strings!methods!upper|book{1}}{82}
-\indexentry{Strings!methods!lower|book{1}}{82}
-\indexentry{Strings!methods!title|book{1}}{82}
-\indexentry{Strings!methods!replace|book{1}}{82}
-\indexentry{Strings!methods!in|book{1}}{82}
-\indexentry{Strings!methods!split|book{1}}{82}
-\indexentry{Strings!methods!count|book{1}}{82}
-\indexentry{Strings!len|book{1}}{85}
-\indexentry{len|book{1}}{85}
-\indexentry{Immutable|book{1}}{88}
-\indexentry{Mutable|book{1}}{88}
-\indexentry{Strings!find|book{1}}{91}
+\indexentry{PEP|book{1}}{14}
+\indexentry{Python!Interpreter|book{1}}{15}
+\indexentry{Print|book{1}}{20}
+\indexentry{Print!Format Specifier|book{1}}{62-64}
+\indexentry{Variable|book{1}}{23}
+\indexentry{Function|book{1}}{89}
+\indexentry{Assignment|book{1}}{26-27}
+\indexentry{Types!Reassign|book{1}}{27}
+\indexentry{Operators!Math|book{1}}{29}
+\indexentry{Math Operators|book{1}}{29}
+\indexentry{base2|book{1}}{32}
+\indexentry{base16|book{1}}{32}
+\indexentry{Operators!Bit|book{1}}{33}
+\indexentry{bit math operators|book{1}}{33}
+\indexentry{Strings|book{1}}{59}
+\indexentry{Strings!.format|book{1}}{61}
+\indexentry{Strings!fstring|book{1}}{64}
+###\indexentry{Strings!cstyle|book{1}}{68}
+\indexentry{Strings!raw strings|book{1}}{65}
+\indexentry{Bytes|book{1}}{66}
+\indexentry{ASCII|book{1}}{68}
+\indexentry{16bit unicode|book{1}}{69}
+\indexentry{utf8|book{1}}{70}
+\indexentry{String!convert bytes|book{1}}{71}
+\indexentry{Bytes!convert string|book{1}}{71}
+\indexentry{Strings!encoding|book{1}}{72}
+\indexentry{Strings!encoders and decoders|book{1}}{82}
+\indexentry{Integers!encoding|book{1}}{74}
+\indexentry{Integers!decoding|book{1}}{74}
+\indexentry{chr|book{1}}{74}
+\indexentry{unichr|book{1}}{74}
+\indexentry{ord|book{1}}{74}
+\indexentry{Strings!slicing|book{1}}{75}
+\indexentry{Strings!methods|book{1}}{77}
+\indexentry{Strings!methods!upper|book{1}}{78}
+\indexentry{Strings!methods!lower|book{1}}{78}
+\indexentry{Strings!methods!title|book{1}}{78}
+\indexentry{Strings!methods!replace|book{1}}{78}
+\indexentry{Strings!methods!in|book{1}}{78}
+\indexentry{Strings!methods!split|book{1}}{78}
+\indexentry{Strings!methods!count|book{1}}{78}
+\indexentry{Strings!len|book{1}}{81}
+\indexentry{len|book{1}}{81}
+\indexentry{Immutable|book{1}}{84}
+\indexentry{Mutable|book{1}}{84}
+\indexentry{Strings!find|book{1}}{87}
+###
 \indexentry{Function!arguments|book{1}}{96}
 \indexentry{Function!return|book{1}}{99}
 \indexentry{name|book{1}}{133-135}

@@ -49,56 +49,57 @@
 \indexentry{Immutable|book{1}}{84}
 \indexentry{Mutable|book{1}}{84}
 \indexentry{Strings!find|book{1}}{87}
-###
-\indexentry{Function!arguments|book{1}}{96}
-\indexentry{Function!return|book{1}}{99}
-\indexentry{name|book{1}}{133-135}
-\indexentry{Syntax!spacing|book{1}}{100}
-\indexentry{Syntax!white space|book{1}}{101}
-\indexentry{Syntax!namespaces|book{1}}{103}
-\indexentry{Namespaces|book{1}}{103}
-\indexentry{legb|book{1}}{104}
-\indexentry{Variable!resolution legb|book{1}}{104}
-\indexentry{Variable!global scope|book{1}}{105}
-\indexentry{global scope|book{1}}{105}
-\indexentry{Variable!typing|book{1}}{106}
-\indexentry{if|book{1}}{111}
-\indexentry{logical operators|book{1}}{112}
-\indexentry{Operators!logical|book{1}}{112}
+
+\indexentry{Function!arguments|book{1}}{92}
+\indexentry{Function!return|book{1}}{94}
+#\indexentry{name|book{1}}{133-135}
+\indexentry{Syntax!spacing|book{1}}{96}
+\indexentry{Syntax!white space|book{1}}{96}
+\indexentry{Syntax!namespaces|book{1}}{98}
+\indexentry{Namespaces|book{1}}{98}
+\indexentry{legb|book{1}}{99}
+\indexentry{Variable!resolution legb|book{1}}{99}
+\indexentry{Variable!global scope|book{1}}{100}
+\indexentry{global scope|book{1}}{100}
+\indexentry{Variable!typing|book{1}}{101}
+\indexentry{if|book{1}}{114}
+\indexentry{logical operators|book{1}}{115}
+\indexentry{Operators!logical|book{1}}{115}
 \indexentry{Operators!logical!shortcuts|book{1}}{116}
-\indexentry{Shortcut operators|book{1}}{116}
-\indexentry{Operators!AND|book{1}}{113}
-\indexentry{Operators!OR|book{1}}{114}
-\indexentry{AND|book{1}}{113}
-\indexentry{OR|book{1}}{114}
-\indexentry{Operators!TRUE|book{1}}{115}
-\indexentry{Operators!FALSE|book{1}}{115}
-\indexentry{TRUE|book{1}}{115}
-\indexentry{FALSE|book{1}}{115}
-\indexentry{if else|book{1}}{117}
-\indexentry{if elif|book{1}}{119}
+\indexentry{Shortcut operators|book{1}}{119}
+\indexentry{Operators!AND|book{1}}{116}
+\indexentry{Operators!OR|book{1}}{117}
+\indexentry{AND|book{1}}{116}
+\indexentry{OR|book{1}}{117}
+\indexentry{Operators!TRUE|book{1}}{118}
+\indexentry{Operators!FALSE|book{1}}{118}
+\indexentry{TRUE|book{1}}{118}
+\indexentry{FALSE|book{1}}{118}
+\indexentry{if else|book{1}}{120}
+\indexentry{if elif|book{1}}{122}
 \indexentry{Modules|book{1}}{125}
-\indexentry{Modules!built in|book{1}}{126}
-\indexentry{Modules!built in!sys|book{1}}{126}
-\indexentry{Modules!built in!subprocess|book{1}}{126}
-\indexentry{Modules!built in!urllib|book{1}}{126}
-\indexentry{Modules!built in!socket|book{1}}{126}
-\indexentry{Modules!built in!re|book{1}}{126}
-\indexentry{Modules!built in!http.server|book{1}}{126}
-\indexentry{Modules!built in!pdb|book{1}}{126}
-\indexentry{Modules!built in!hashlib|book{1}}{126}
-\indexentry{Modules!built in!https|book{1}}{126}
-\indexentry{Modules!importlib.reload|book{W}}{1-4}
-\indexentry{Modules!third party|book{1}}{127}
-\indexentry{Modules!third party! beautiful soup|book{1}}{127}
-\indexentry{Modules!third party! requests|book{1}}{127}
-\indexentry{Modules!third party! pexpect|book{1}}{127}
-\indexentry{Modules!third party! impacket|book{1}}{127}
-\indexentry{Modules!third party! plaso|book{1}}{127}
-\indexentry{Modules!third party! scapy|book{1}}{127}
-\indexentry{Modules!third party! gmail|book{1}}{127}
-\indexentry{Modules!install|book{1}}{128}
-\indexentry{pip|book{1}}{129}
+\indexentry{Modules!built in|book{2}}{5}
+\indexentry{Modules!built in!sys|book{2}}{5}
+\indexentry{Modules!built in!subprocess|book{2}}{5}
+\indexentry{Modules!built in!urllib|book{2}}{5}
+\indexentry{Modules!built in!socket|book{2}}{5}
+\indexentry{Modules!built in!re|book{2}}{5}
+\indexentry{Modules!built in!http.server|book{2}}{5}
+\indexentry{Modules!built in!pdb|book{2}}{5}
+\indexentry{Modules!built in!hashlib|book{2}}{5}
+\indexentry{Modules!built in!https|book{2}}{5}
+#\indexentry{Modules!importlib.reload|book{W}}{1-4}
+\indexentry{Modules!third party|book{2}}{6}
+\indexentry{Modules!third party! beautiful soup|book{2}}{6}
+\indexentry{Modules!third party! requests|book{2}}{6}
+\indexentry{Modules!third party! pexpect|book{2}}{6}
+\indexentry{Modules!third party! impacket|book{2}}{6}
+\indexentry{Modules!third party! plaso|book{2}}{6}
+\indexentry{Modules!third party! scapy|book{2}}{6}
+\indexentry{Modules!third party! gmail|book{2}}{6}
+\indexentry{Modules!install|book{2}}{7}
+\indexentry{pip|book{2}}{7-9}
+###
 \indexentry{Modules!import|book{1}}{132}
 \indexentry{Modules!vs scripts|book{1}}{133}
 \indexentry{scripts vs modules|book{1}}{133}

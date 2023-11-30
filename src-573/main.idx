@@ -99,11 +99,12 @@
 \indexentry{Modules!third party! gmail|book{2}}{6}
 \indexentry{Modules!install|book{2}}{7}
 \indexentry{pip|book{2}}{7-9}
+
+\indexentry{Modules!import|book{2}}{11}
+\indexentry{Modules!vs scripts|book{2}}{12}
+\indexentry{scripts vs modules|book{2}}{12}
+\indexentry{Modules!main|book{2}}{13-14}
 ###
-\indexentry{Modules!import|book{1}}{132}
-\indexentry{Modules!vs scripts|book{1}}{133}
-\indexentry{scripts vs modules|book{1}}{133}
-\indexentry{Modules!main|book{1}}{135}
 \indexentry{List|book{1}}{141}
 \indexentry{List!index|book{1}}{142}
 \indexentry{List!methods|book{1}}{144}

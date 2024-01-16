@@ -105,31 +105,32 @@
 \indexentry{scripts vs modules|book{2}}{12}
 \indexentry{Modules!main|book{2}}{13-14}
 ###
-\indexentry{List|book{1}}{141}
-\indexentry{List!index|book{1}}{142}
-\indexentry{List!methods|book{1}}{144}
-\indexentry{List!slicing|book{1}}{147}
-\indexentry{List!copies|book{1}}{148}
-\indexentry{strings convert list|book{1}}{149}
-\indexentry{List!convert string|book{1}}{149}
-\indexentry{List!.split|book{1}}{149}
-\indexentry{List!.join|book{1}}{150}
-\indexentry{List!zip|book{1}}{151}
-\indexentry{List!sum|book{1}}{151}
-\indexentry{List!map|book{1}}{152}
-\indexentry{List!sorting|book{1}}{153}
-\indexentry{sorting|book{1}}{153}
-\indexentry{sort vs sorted|book{1}}{155}
-\indexentry{for|book{1}}{157}
-\indexentry{while|book{1}}{164}
-\indexentry{enumerate|book{1}}{161}
-\indexentry{enumerate|book{1}}{163}
-\indexentry{range|book{1}}{160}
-\indexentry{XOR|book{1}}{162}
-\indexentry{break|book{1}}{166}
-\indexentry{continue|book{1}}{166}
-\indexentry{Tuple|book{1}}{171}
-\indexentry{Tuple!sorted|book{1}}{173}
+\indexentry{List|book{2}}{35}
+\indexentry{List!index|book{2}}{36}
+\indexentry{List!methods|book{2}}{38}
+\indexentry{List!slicing|book{2}}{41}
+\indexentry{List!copies|book{2}}{42}
+\indexentry{strings convert list|book{2}}{43}
+\indexentry{List!convert string|book{2}}{44}
+\indexentry{List!.split|book{2}}{43}
+\indexentry{List!.join|book{2}}{44}
+\indexentry{List!zip|book{2}}{45}
+\indexentry{List!sum|book{2}}{45}
+\indexentry{List!map|book{2}}{46}
+\indexentry{List!sorting|book{2}}{47}
+\indexentry{sorting|book{2}}{47}
+\indexentry{sort vs sorted|book{2}}{48}
+\indexentry{for|book{2}}{52}
+\indexentry{while|book{2}}{59}
+\indexentry{enumerate|book{2}}{56}
+\indexentry{enumerate|book{2}}{58}
+\indexentry{range|book{2}}{55}
+\indexentry{XOR|book{2}}{57}
+\indexentry{break|book{2}}{61}
+\indexentry{continue|book{2}}{61}
+\indexentry{Tuple|book{2}}{67}
+\indexentry{Tuple!sorted|book{2}}{69}
+###
 \indexentry{Dictionary|book{1}}{175}
 \indexentry{Dictionary!copy|book{1}}{177}
 \indexentry{Dictionary!methods|book{1}}{178}

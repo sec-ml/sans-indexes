@@ -99,12 +99,10 @@
 \indexentry{Modules!third party! gmail|book{2}}{6}
 \indexentry{Modules!install|book{2}}{7}
 \indexentry{pip|book{2}}{7-9}
-
 \indexentry{Modules!import|book{2}}{11}
 \indexentry{Modules!vs scripts|book{2}}{12}
 \indexentry{scripts vs modules|book{2}}{12}
 \indexentry{Modules!main|book{2}}{13-14}
-###
 \indexentry{List|book{2}}{35}
 \indexentry{List!index|book{2}}{36}
 \indexentry{List!methods|book{2}}{38}
@@ -130,20 +128,20 @@
 \indexentry{continue|book{2}}{61}
 \indexentry{Tuple|book{2}}{67}
 \indexentry{Tuple!sorted|book{2}}{69}
-###
-\indexentry{Dictionary|book{1}}{175}
-\indexentry{Dictionary!copy|book{1}}{177}
-\indexentry{Dictionary!methods|book{1}}{178}
-\indexentry{Dictionary!2 vs 3|book{1}}{179}
-\indexentry{Dictionary!keys|book{1}}{181}
-\indexentry{Dictionary!values|book{1}}{182}
-\indexentry{Dictionary!items|book{1}}{183}
-\indexentry{Dictionary!speciality|book{1}}{185}
-\indexentry{Dictionary!speciality!defaultdict|book{1}}{186}
-\indexentry{defaultdict|book{1}}{186}
-\indexentry{Dictionary!speciality!counter|book{1}}{187}
-\indexentry{counter|book{1}}{187}
-\indexentry{Dictionary!.get|book{1}}{191}
+\indexentry{Dictionary|book{2}}{71}
+\indexentry{Dictionary!copy|book{2}}{73}
+\indexentry{Dictionary!methods|book{2}}{74}
+\indexentry{Dictionary!2 vs 3|book{2}}{75}
+\indexentry{Dictionary!keys|book{2}}{77}
+\indexentry{Dictionary!values|book{2}}{78}
+\indexentry{Dictionary!items|book{2}}{79}
+\indexentry{Dictionary!speciality|book{2}}{81}
+\indexentry{Dictionary!speciality!defaultdict|book{2}}{82}
+\indexentry{defaultdict|book{2}}{82}
+\indexentry{Dictionary!speciality!counter|book{2}}{83}
+\indexentry{counter|book{2}}{83}
+\indexentry{Dictionary!.get|book{2}}{87}
+### -->
 \indexentry{Python!environments|book{1}}{193}
 \indexentry{Module!versions|book{1}}{194}
 \indexentry{Python!path|book{1}}{195}
@@ -162,9 +160,13 @@
 \indexentry{Debugger!python debugger PDB|book{1}}{214}
 \indexentry{Debugger!python -m pdb|book{1}}{214}
 \indexentry{Function!lambda|book{1}}{217}
-\indexentry{lambda functions|book{1}}{217}
-\indexentry{List!deep copy|book{1}}{219}
-\indexentry{deep copy lists|book{1}}{219}
+
+<-- ###
+\indexentry{lambda functions|book{2}}{89}
+\indexentry{List!deep copy|book{2}}{91}
+\indexentry{deep copy lists|book{2}}{91}
+### -->
+
 \indexentry{for!enumerate|book{1}}{161}
 \indexentry{for!enumerate|book{1}}{163}
 \indexentry{floats approximation|book{1}}{220}

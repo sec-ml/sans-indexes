@@ -235,62 +235,62 @@
 \indexentry{Regex!re!search|book{3}}{27}
 \indexentry{Regex!re!findall|book{3}}{27}
 \indexentry{Regex!Rules|book{3}}{28-29}
+\indexentry{Regex!Escape Characters|book{3}}{30}
+\indexentry{Escape Characters|book{3}}{30}
+\indexentry{String!Escape Characters|book{3}}{30}
+\indexentry{Regex!Custom Sets|book{3}}{32}
+\indexentry{Regex!Logical OR|book{3}}{33}
+\indexentry{Operators!OR!Regex|book{3}}{33}
+\indexentry{Regex!Repeating Characters|book{3}}{34}
+\indexentry{Regex!Flags|book{3}}{35}
+\indexentry{Regex!Modifiers|book{3}}{35}
+\indexentry{Regex!Greedy Matching|book{3}}{36}
+\indexentry{Regex!NOT custom set|book{3}}{37}
+\indexentry{Regex!Capture Groups|book{3}}{39}
+\indexentry{Regex!Capture vs| Non-capture groups|book{3}}{41}
+\indexentry{Regex!Search|book{3}}{42}
+\indexentry{Regex!Match|book{3}}{42}
+\indexentry{Regex!Capture Groups!Named|book{3}}{43}
+\indexentry{Regex!Back referencing|book{3}}{45-46}
+\indexentry{Regex!Testing|book{3}}{48}
+\indexentry{Sets|book{3}}{55}
+\indexentry{Sets!Methods|book{3}}{56}
+\indexentry{Sets!Operators|book{3}}{57}
+\indexentry{Sets!Copy|book{3}}{58}
+\indexentry{Sets!Update|book{3}}{59}
+\indexentry{Sets!Union|book{3}}{59}
+\indexentry{Sets!Intersection|book{3}}{59}
+\indexentry{Sets!Difference|book{3}}{59}
+\indexentry{Union|book{3}}{59}
+\indexentry{Intersection|book{3}}{59}
+\indexentry{Difference|book{3}}{59}
+\indexentry{Logs!Analyzing|book{3}}{53}
+\indexentry{Logs!DNS Hostnames|book{3}}{61}
+\indexentry{DNS Hostnames|book{3}}{61}
+\indexentry{Logs!Browser User Agent Strings|book{3}}{62}
+\indexentry{Browser User Agent Strings|book{3}}{62}
+\indexentry{Logs!IP Addresses|book{3}}{63}
+\indexentry{IP Addresses|book{3}}{63}
+\indexentry{Logs!Long-Short Tail Analysis|book{3}}{64}
+\indexentry{Logs!Long-Short Tail Analysis!Counter|book{3}}{64}
+\indexentry{Long-Short Tail Analysis|book{3}}{64}
+\indexentry{Long-Short Tail Analysis!Counter|book{3}}{64}
+\indexentry{Counter!Long-Short Tail Analysis|book{3}}{64}
+\indexentry{Dictionary!Categorize Data|book{3}}{65}
+\indexentry{Categorize Data|book{3}}{65}
+\indexentry{Logs!Categorize Data|book{3}}{65}
+\indexentry{Logs!Slicing Timestamps|book{3}}{66}
+\indexentry{Timestamps!Slicing|book{3}}{66}
+\indexentry{Beacons!Intersection|book{3}}{67}
+\indexentry{Sets!Intersection!Beacons|book{3}}{67}
+\indexentry{Intersection!Beacons|book{3}}{67}
+\indexentry{Geoip2|book{3}}{68-71}
+\indexentry{IP Addresses!Geoip2|book{3}}{68-71}
+\indexentry{Character Frequency|book{3}}{72}
+\indexentry{Logs!Character Frequency|book{3}}{72}
+\indexentry{Randomness!Character Frequency|book{3}}{72}
+\indexentry{Character Frequency!Tables|book{3}}{73-74}
 
-\indexentry{Regex!Escape Characters|book{2}}{31}
-\indexentry{Escape Characters|book{2}}{31}
-\indexentry{String!Escape Characters|book{2}}{31}
-\indexentry{Regex!Custom Sets|book{2}}{33}
-\indexentry{Regex!Logical OR|book{2}}{34}
-\indexentry{Operators!OR!Regex|book{2}}{34}
-\indexentry{Regex!Repeating Characters|book{2}}{35}
-\indexentry{Regex!Flags|book{2}}{36}
-\indexentry{Regex!Modifiers|book{2}}{36}
-\indexentry{Regex!Greedy Matching|book{2}}{37}
-\indexentry{Regex!NOT custom set|book{2}}{38}
-\indexentry{Regex!Capture Groups|book{2}}{40}
-\indexentry{Regex!Capture vs| Non-capture groups|book{2}}{42}
-\indexentry{Regex!Search|book{2}}{43}
-\indexentry{Regex!Match|book{2}}{43}
-\indexentry{Regex!Capture Groups!Named|book{2}}{44}
-\indexentry{Regex!Back referencing|book{2}}{45-46}
-\indexentry{Regex!Testing|book{2}}{48}
-\indexentry{Sets|book{2}}{54}
-\indexentry{Sets!Methods|book{2}}{55}
-\indexentry{Sets!Operators|book{2}}{56}
-\indexentry{Sets!Copy|book{2}}{57}
-\indexentry{Sets!Update|book{2}}{58}
-\indexentry{Sets!Union|book{2}}{58}
-\indexentry{Sets!Intersection|book{2}}{58}
-\indexentry{Sets!Difference|book{2}}{58}
-\indexentry{Union|book{2}}{58}
-\indexentry{Intersection|book{2}}{58}
-\indexentry{Difference|book{2}}{58}
-\indexentry{Logs!Analyzing|book{2}}{53}
-\indexentry{Logs!DNS Hostnames|book{2}}{60}
-\indexentry{DNS Hostnames|book{2}}{60}
-\indexentry{Logs!Browser User Agent Strings|book{2}}{61}
-\indexentry{Browser User Agent Strings|book{2}}{61}
-\indexentry{Logs!IP Addresses|book{2}}{62}
-\indexentry{IP Addresses|book{2}}{62}
-\indexentry{Logs!Long-Short Tail Analysis|book{2}}{63}
-\indexentry{Logs!Long-Short Tail Analysis!Counter|book{2}}{63}
-\indexentry{Long-Short Tail Analysis|book{2}}{63}
-\indexentry{Long-Short Tail Analysis!Counter|book{2}}{63}
-\indexentry{Counter!Long-Short Tail Analysis|book{2}}{63}
-\indexentry{Dictionary!Categorize Data|book{2}}{64}
-\indexentry{Categorize Data|book{2}}{64}
-\indexentry{Logs!Categorize Data|book{2}}{64}
-\indexentry{Logs!Slicing Timestamps|book{2}}{65}
-\indexentry{Timestamps!Slicing|book{2}}{65}
-\indexentry{Beacons!Intersection|book{2}}{66}
-\indexentry{Sets!Intersection!Beacons|book{2}}{66}
-\indexentry{Intersection!Beacons|book{2}}{66}
-\indexentry{Geoip2|book{2}}{67-70}
-\indexentry{IP Addresses!Geoip2|book{2}}{67-70}
-\indexentry{Character Frequency|book{2}}{71}
-\indexentry{Logs!Character Frequency|book{2}}{71}
-\indexentry{Randomness!Character Frequency|book{2}}{71}
-\indexentry{Character Frequency!Tables|book{2}}{72-73}
 \indexentry{Scapy|book{2}}{79}
 \indexentry{Packet Analysis!Scapy|book{2}}{79}
 \indexentry{Scapy!Read|book{2}}{81}

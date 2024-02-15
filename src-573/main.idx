@@ -143,16 +143,16 @@
 \indexentry{counter|book{2}}{83}
 \indexentry{Dictionary!.get|book{2}}{87}
 ### -->
-\indexentry{Python!environments|book{1}}{193} x
-\indexentry{Module!versions|book{1}}{194} x
-\indexentry{Python!path|book{1}}{195} x
-\indexentry{Path|book{1}}{195} x
-\indexentry{Standard libraries|book{1}}{197} x
-\indexentry{site modules|book{1}}{198} x
-\indexentry{site packages|book{1}}{198} x
-\indexentry{sys.path|book{1}}{200} x
-\indexentry{venv|book{1}}{201} x
-\indexentry{virtual environment|book{1}}{202} x
+\indexentry{Python!environments|book{2}}{17}
+\indexentry{Module!versions|book{2}}{17}
+\indexentry{Python!path|book{2}}{18}
+\indexentry{Path|book{2}}{18}
+\indexentry{Standard libraries|book{2}}{20}
+\indexentry{site modules|book{2}}{21}
+\indexentry{site packages|book{2}}{21}
+\indexentry{sys.path|book{2}}{23}
+\indexentry{venv|book{2}}{24}
+\indexentry{virtual environment|book{2}}{24}
 \indexentry{Microsoft visual studio code|book{1}}{208} x
 \indexentry{Debugger!visual code debugger|book{1}}{127}
 \indexentry{Debugger!visual code debugger interface|book{1}}{211} ?^127 x
@@ -161,14 +161,12 @@
 \indexentry{Debugger!python debugger PDB|book{1}}{126}
 \indexentry{Debugger!python -m pdb|book{1}}{126}
 
-<-- ###
 \indexentry{Function!lambda|book{2}}{89}
 \indexentry{lambda functions|book{2}}{89}
 \indexentry{List!deep copy|book{2}}{91}
 \indexentry{deep copy lists|book{2}}{91}
 \indexentry{floats approximation|book{2}}{92}
 \indexentry{List!comprehension|book{2}}{93}
-### -->
 
 \indexentry{for!enumerate|book{1}}{161}
 \indexentry{for!enumerate|book{1}}{163}
@@ -350,85 +348,86 @@
 \indexentry{STRUCT|book{4}}{17}
 \indexentry{STRUCT!Format Characters|book{4}}{18}
 \indexentry{Format Characters|book{4}}{18}
-\indexentry{STRUCT!Unpack|book{2}}{132-133}
-\indexentry{STRUCT!Unpack Bits as Flags|book{2}}{134}
-\indexentry{STRUCT!Pack|book{2}}{135}
-\indexentry{STRUCT!Ether Header Struct|book{2}}{136}
-\indexentry{STRUCT!IP Header Struct|book{2}}{137}
-\indexentry{STRUCT!TCP Header Struct|book{2}}{138}
-\indexentry{STRUCT!UCP Header Struct|book{2}}{139}
-\indexentry{STRUCT!ICMP Header Struct|book{2}}{140-144}
-\indexentry{Regex!Binary Data|book{2}}{146}
-\indexentry{Binary Data!Regex|book{2}}{146}
-\indexentry{Artifact!Analysis|book{2}}{147}
-\indexentry{PIL|book{2}}{149}
-\indexentry{PIL!Open|book{2}}{150}
-\indexentry{PIL!Key functions|book{2}}{151}
-\indexentry{PIL!Metadata|book{2}}{152-153}
-\indexentry{GPS|book{2}}{154-155}
-\indexentry{Forensics!Images|book{2}}{157-162}
-\indexentry{SQL|book{2}}{164}
-\indexentry{SQL!Basic Statements|book{2}}{166-167}
-\indexentry{SQL!Joins|book{2}}{168}
-\indexentry{SQL!Union|book{2}}{169-170}
-\indexentry{SQL!Subqueries|book{2}}{171}
-\indexentry{SQL!Database Modules|book{2}}{173}
-\indexentry{SQL!sqlite3|book{2}}{174-175}
-\indexentry{sqlite3|book{2}}{174-175}
-\indexentry{Windows!Registry|book{2}}{177-181}
-\indexentry{Generators|book{2}}{182}
-\indexentry{Generators!Yield|book{2}}{182}
-\indexentry{Windows!Registry!WiFi|book{2}}{184-185}
-\indexentry{Windows!Registry!Network Profiles|book{2}}{186}
-\indexentry{Windows!Registry!Date/Time Format|book{2}}{187}
-\indexentry{Date/Time Format|book{2}}{187}
-\indexentry{datetime.datetime.fromtimestamp|book{2}}{187}
+\indexentry{STRUCT!Unpack|book{4}}{19-20}
+\indexentry{STRUCT!Unpack Bits as Flags|book{4}}{21}
+\indexentry{STRUCT!Pack|book{4}}{22}
+\indexentry{STRUCT!Ether Header Struct|book{4}}{23}
+\indexentry{STRUCT!IP Header Struct|book{4}}{24}
+\indexentry{STRUCT!TCP Header Struct|book{4}}{25}
+\indexentry{STRUCT!UDP Header Struct|book{4}}{26}
+\indexentry{STRUCT!ICMP Header Struct|book{4}}{27-29}
+\indexentry{Regex!Binary Data|book{4}}{33}
+\indexentry{Binary Data!Regex|book{4}}{33}
+\indexentry{Artifact!Analysis|book{4}}{34}
+\indexentry{PIL|book{4}}{36}
+\indexentry{PIL!Open|book{4}}{37}
+\indexentry{PIL!Key functions|book{4}}{38}
+\indexentry{PIL!Metadata|book{4}}{39-40}
+\indexentry{GPS|book{4}}{41-42}
+\indexentry{Forensics!Images|book{4}}{44-49}
+\indexentry{SQL|book{4}}{51}
+\indexentry{SQL!Basic Statements|book{4}}{54-55}
+\indexentry{SQL!Joins|book{4}}{56}
+\indexentry{SQL!Union|book{4}}{57-58}
+\indexentry{SQL!Subqueries|book{4}}{59}
+\indexentry{SQL!Database Modules|book{4}}{61}
+\indexentry{SQL!sqlite3|book{4}}{62-63}
+\indexentry{sqlite3|book{4}}{62-63}
+\indexentry{Windows!Registry|book{4}}{65-69}
+\indexentry{Generators|book{2}}{182} x?
+\indexentry{Generators!Yield|book{2}}{182} x?
+\indexentry{Windows!Registry!WiFi|book{4}}{70-71}
+\indexentry{Windows!Registry!Network Profiles|book{4}}{72}
+\indexentry{Windows!Registry!Date/Time Format|book{4}}{73}
+\indexentry{Date/Time Format|book{4}}{73}
+\indexentry{datetime.datetime.fromtimestamp|book{4}}{73}
 \indexentry{Registry \goto Windows!Registry|comment}{0}
-\indexentry{Windows!Registry!WiFi|book{2}}{188}
-\indexentry{Windows!Registry!Forensics|book{2}}{190-192}
-\indexentry{Forensics!Registry|book{2}}{190-192}
-\indexentry{Web!Websites|book{2}}{194}
-\indexentry{Requests|book{2}}{194}
-\indexentry{Web!Requests|book{2}}{194}
-\indexentry{Web!Encoding|book{2}}{195}
-\indexentry{Web!GET|book{2}}{196}
-\indexentry{Web!Urllib|book{2}}{196}
-\indexentry{GET|book{2}}{196}
-\indexentry{Urllib|book{2}}{196}
-\indexentry{Web!POST|book{2}}{197}
-\indexentry{POST|book{2}}{197-198}
-\indexentry{Urllib|book{2}}{198}
-\indexentry{Requests|book{2}}{200-202}
-\indexentry{Web!Requests|book{2}}{200-202}
-\indexentry{Web!Session|book{2}}{203}
-\indexentry{Requests!Session|book{2}}{203}
-\indexentry{Requests!https|book{2}}{216}
-\indexentry{Requests!SSL/TLS|book{2}}{216}
-\indexentry{Web!Browser!GET/POST|book{2}}{204}
-\indexentry{GET|book{2}}{204}
-\indexentry{POST|book{2}}{204}
-\indexentry{Password|book{2}}{Guesser|book{2}}{205}
-\indexentry{Requests!Proxies|book{2}}{206}
-\indexentry{Proxies|book{2}}{206}
-\indexentry{Cookies|book{2}}{207}
-\indexentry{Requests!Cookies|book{2}}{207-209}
-\indexentry{GET!Cookies|book{2}}{207-209}
-\indexentry{POST!Cookies|book{2}}{207-209}
-\indexentry{CookieJar|book{2}}{209-213}
-\indexentry{Requests!Authentication|book{2}}{214-215}
-\indexentry{Authentication|book{2}}{214-215}
-\indexentry{OAuth|book{2}}{215}
-\indexentry{NTLM|book{2}}{215}
-\indexentry{Kerberos|book{2}}{215}
-\indexentry{Authentication!OAuth|book{2}}{215}
-\indexentry{Authentication!NTLM|book{2}}{215}
-\indexentry{Authentication!Kerberos|book{2}}{215}
-\indexentry{SSL/TSL|book{2}}{216}
-\indexentry{Authentication!SSL/TSL|book{2}}{216}
-\indexentry{Session Hijacking|book{2}}{217}
-\indexentry{Authentication!Session Hicjacking|book{2}}{217}
-\indexentry{Authentication!Captchas|book{2}}{218}
-\indexentry{Captchas|book{2}}{218}
+\indexentry{Windows!Registry!WiFi|book{4}}{74}
+\indexentry{Windows!Registry!Forensics|book{4}}{76-78}
+\indexentry{Forensics!Registry|book{4}}{76-78}
+\indexentry{Web!Websites|book{4}}{80}
+\indexentry{Requests|book{4}}{80}
+\indexentry{Web!Requests|book{4}}{80}
+\indexentry{Web!Encoding|book{4}}{81}
+\indexentry{Web!GET|book{4}}{82}
+\indexentry{Web!Urllib|book{4}}{82}
+\indexentry{GET|book{4}}{82}
+\indexentry{Urllib|book{4}}{82}
+\indexentry{Web!POST|book{4}}{83}
+\indexentry{POST|book{4}}{83-84}
+\indexentry{Urllib|book{4}}{84}
+\indexentry{Requests|book{4}}{86-88}
+\indexentry{Web!Requests|book{4}}{86-88}
+\indexentry{Web!Session|book{4}}{89}
+\indexentry{Requests!Session|book{4}}{89}
+\indexentry{Requests!https|book{4}}{102}
+\indexentry{Requests!SSL/TLS|book{4}}{102}
+\indexentry{Web!Browser!GET/POST|book{4}}{90}
+\indexentry{GET|book{4}}{90}
+\indexentry{POST|book{4}}{90}
+\indexentry{Password|book{4}}{Guesser|book{4}}{91}
+\indexentry{Requests!Proxies|book{4}}{92}
+\indexentry{Proxies|book{4}}{92}
+\indexentry{Cookies|book{4}}{93}
+\indexentry{Requests!Cookies|book{4}}{93-95}
+\indexentry{GET!Cookies|book{4}}{93-95}
+\indexentry{POST!Cookies|book{4}}{93-95}
+\indexentry{CookieJar|book{4}}{95-99}
+\indexentry{Requests!Authentication|book{4}}{100-101}
+\indexentry{Authentication|book{4}}{100-101}
+\indexentry{OAuth|book{4}}{101}
+\indexentry{NTLM|book{4}}{101}
+\indexentry{Kerberos|book{4}}{101}
+\indexentry{Authentication!OAuth|book{4}}{101}
+\indexentry{Authentication!NTLM|book{4}}{101}
+\indexentry{Authentication!Kerberos|book{4}}{101}
+\indexentry{SSL/TSL|book{4}}{102}
+\indexentry{Authentication!SSL/TSL|book{4}}{102}
+\indexentry{Session Hijacking|book{4}}{103}
+\indexentry{Authentication!Session Hicjacking|book{4}}{103}
+\indexentry{Authentication!Captchas|book{4}}{104}
+\indexentry{Captchas|book{4}}{104}
+
 \indexentry{Pen Test!Use case|book{2}}{232}
 \indexentry{Python!Backdoor|book{2}}{233}
 \indexentry{Backdoor|book{2}}{233}

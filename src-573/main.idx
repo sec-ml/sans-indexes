@@ -330,26 +330,26 @@
 \indexentry{io.BytesIO|book{3}}{108}
 \indexentry{Covert Channels|book{3}}{109}
 
-\indexentry{Forensics|book{2}}{115}
-\indexentry{Forensics!Artifact Carving|book{2}}{116-118}
-\indexentry{Forensics!Live Hard-Drive Carving|book{2}}{120}
-\indexentry{Hard-Drive Carving|book{2}}{120}
-\indexentry{PhysicalDrive0|book{2}}{120}
-\indexentry{Forensics!Live Memory Carving|book{2}}{121}
-\indexentry{Carving|book{2}}{120-121}
-\indexentry{Windows Live Network Capture|book{2}}{122}
-\indexentry{Windows Sniffing|book{2}}{122}
-\indexentry{Linux Live Network Capture|book{2}}{123}
-\indexentry{Linux Sniffing|book{2}}{122}
-\indexentry{Images!Analyse dead/static images|book{2}}{124}
-\indexentry{PCAP|book{2}}{126}
-\indexentry{Encapsulated Structures|book{2}}{127}
-\indexentry{Parser|book{2}}{128}
-\indexentry{Parser!Unknown Unknowns|book{2}}{129}
-\indexentry{Alerts!Unknown Unknowns|book{2}}{129}
-\indexentry{STRUCT|book{2}}{130}
-\indexentry{STRUCT!Format Characters|book{2}}{131}
-\indexentry{Format Characters|book{2}}{131}
+\indexentry{Forensics|book{4}}{4}
+\indexentry{Forensics!Artifact Carving|book{4}}{5-7}
+\indexentry{Forensics!Live Hard-Drive Carving|book{4}}{8}
+\indexentry{Hard-Drive Carving|book{4}}{8}
+\indexentry{PhysicalDrive0|book{4}}{8}
+\indexentry{Forensics!Live Memory Carving|book{4}}{9}
+\indexentry{Carving|book{4}}{8-9}
+\indexentry{Windows Live Network Capture|book{4}}{10}
+\indexentry{Windows Sniffing|book{4}}{10}
+\indexentry{Linux Live Network Capture|book{4}}{11}
+\indexentry{Linux Sniffing|book{4}}{11}
+\indexentry{Images!Analyse dead/static images|book{4}}{12}
+\indexentry{PCAP|book{4}}{13}
+\indexentry{Encapsulated Structures|book{4}}{14}
+\indexentry{Parser|book{4}}{15}
+\indexentry{Parser!Unknown Unknowns|book{4}}{16}
+\indexentry{Alerts!Unknown Unknowns|book{4}}{16}
+\indexentry{STRUCT|book{4}}{17}
+\indexentry{STRUCT!Format Characters|book{4}}{18}
+\indexentry{Format Characters|book{4}}{18}
 \indexentry{STRUCT!Unpack|book{2}}{132-133}
 \indexentry{STRUCT!Unpack Bits as Flags|book{2}}{134}
 \indexentry{STRUCT!Pack|book{2}}{135}

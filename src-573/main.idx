@@ -290,46 +290,46 @@
 \indexentry{Logs!Character Frequency|book{3}}{72}
 \indexentry{Randomness!Character Frequency|book{3}}{72}
 \indexentry{Character Frequency!Tables|book{3}}{73-74}
+\indexentry{Scapy|book{3}}{80}
+\indexentry{Packet Analysis!Scapy|book{3}}{80}
+\indexentry{Scapy!Read|book{3}}{82}
+\indexentry{Scapy!Write|book{3}}{82}
+\indexentry{Scapy!PacketLists|book{3}}{82}
+\indexentry{Packet Analysis!PacketLists|book{3}}{82}
+\indexentry{Scapy!Sniff|book{3}}{83}
+\indexentry{Scapy!PcapReader|book{3}}{84}
+\indexentry{Sniff|book{3}}{83}
+\indexentry{PcapReader|book{3}}{84}
+\indexentry{Scapy!plist|book{3}}{85}
+\indexentry{Scapy!rdpcap|book{3}}{82}
+\indexentry{Scapy!wrpcap|book{3}}{82}
+\indexentry{rdpcap|book{3}}{82}
+\indexentry{wrpcap|book{3}}{82}
+\indexentry{Scapy!Timestamp Order|book{3}}{95}
+\indexentry{Scapy!time Order|book{2}}{82} x?
+\indexentry{Wireshark!TCP Streams|book{3}}{87}
+\indexentry{TCP Streams|book{3}}{87}
+\indexentry{Scapy!PacketLists!Sessions|book{3}}{88-89}
+\indexentry{Scapy!PacketLists!Structure|book{3}}{90}
+\indexentry{Scapy!PacketLists!Layers|book{3}}{90-92}
+\indexentry{Packet Analysis!Custom single purpose analyzer|book{3}}{94}
+\indexentry{Packet Analysis!Streams|book{3}}{95}
+\indexentry{Packet Analysis!Reassemble Payloads|book{3}}{97}
+\indexentry{Packet Analysis!Packet Order|book{3}}{98}
+\indexentry{Packet Analysis!Sorting Packets|book{3}}{99}
+\indexentry{Packet Analysis!Duplicate Packets|book{3}}{100}
+\indexentry{Packet Analysis!Bad Checksums|book{3}}{101}
+\indexentry{Checksums|book{3}}{101}
+\indexentry{Packet Analysis!Assembly Issues|book{3}}{102}
+\indexentry{Packet Analysis!IP Packet Fragmentation|book{3}}{103}
+\indexentry{Packet Analysis!Overlapping Fragments|book{3}}{104}
+\indexentry{Packet Analysis!OS Dependent Reassembly|book{3}}{105}
+\indexentry{Packet Analysis!reassembly.py|book{3}}{106-107}
+\indexentry{reassembly.py|book{3}}{106-107}
+\indexentry{io.StringIO|book{3}}{108}
+\indexentry{io.BytesIO|book{3}}{108}
+\indexentry{Covert Channels|book{3}}{109}
 
-\indexentry{Scapy|book{2}}{79}
-\indexentry{Packet Analysis!Scapy|book{2}}{79}
-\indexentry{Scapy!Read|book{2}}{81}
-\indexentry{Scapy!Write|book{2}}{81}
-\indexentry{Scapy!PacketLists|book{2}}{81}
-\indexentry{Packet Analysis!PacketLists|book{2}}{81}
-\indexentry{Scapy!Sniff|book{2}}{82}
-\indexentry{Scapy!PcapReader|book{2}}{83}
-\indexentry{Sniff|book{2}}{82}
-\indexentry{PcapReader|book{2}}{83}
-\indexentry{Scapy!plist|book{2}}{84}
-\indexentry{Scapy!rdpcap|book{2}}{81}
-\indexentry{Scapy!wrpcap|book{2}}{81}
-\indexentry{rdpcap|book{2}}{81}
-\indexentry{wrpcap|book{2}}{81}
-\indexentry{Scapy!Timestamp Order|book{2}}{94}
-\indexentry{Scapy!time Order|book{2}}{82}
-\indexentry{Wireshark!TCP Streams|book{2}}{86}
-\indexentry{TCP Streams|book{2}}{86}
-\indexentry{Scapy!PacketLists!Sessions|book{2}}{87-88}
-\indexentry{Scapy!PacketLists!Structure|book{2}}{89}
-\indexentry{Scapy!PacketLists!Layers|book{2}}{90-92}
-\indexentry{Packet Analysis!Custom single purpose analyzer|book{2}}{93}
-\indexentry{Packet Analysis!Streams|book{2}}{94}
-\indexentry{Packet Analysis!Reassemble Payloads|book{2}}{96}
-\indexentry{Packet Analysis!Packet Order|book{2}}{97}
-\indexentry{Packet Analysis!Sorting Packets|book{2}}{98}
-\indexentry{Packet Analysis!Duplicate Packets|book{2}}{99}
-\indexentry{Packet Analysis!Bad Checksums|book{2}}{100}
-\indexentry{Checksums|book{2}}{100}
-\indexentry{Packet Analysis!Assembly Issues|book{2}}{101}
-\indexentry{Packet Analysis!IP Packet Fragmentation|book{2}}{102}
-\indexentry{Packet Analysis!Overlapping Fragments|book{2}}{103}
-\indexentry{Packet Analysis!OS Dependent Reassembly|book{2}}{104}
-\indexentry{Packet Analysis!reassembly.py|book{2}}{105-106}
-\indexentry{reassembly.py|book{2}}{105-106}
-\indexentry{io.StringIO|book{2}}{107}
-\indexentry{io.BytesIO|book{2}}{107}
-\indexentry{Covert Channels|book{2}}{108}
 \indexentry{Forensics|book{2}}{115}
 \indexentry{Forensics!Artifact Carving|book{2}}{116-118}
 \indexentry{Forensics!Live Hard-Drive Carving|book{2}}{120}

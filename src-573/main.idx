@@ -77,6 +77,7 @@
 \indexentry{FALSE|book{1}}{118}
 \indexentry{if else|book{1}}{120}
 \indexentry{if elif|book{1}}{122}
+
 \indexentry{Modules|book{1}}{125}
 \indexentry{Modules!built in|book{2}}{5}
 \indexentry{Modules!built in!sys|book{2}}{5}
@@ -142,41 +143,42 @@
 \indexentry{counter|book{2}}{83}
 \indexentry{Dictionary!.get|book{2}}{87}
 ### -->
-\indexentry{Python!environments|book{1}}{193}
-\indexentry{Module!versions|book{1}}{194}
-\indexentry{Python!path|book{1}}{195}
-\indexentry{Path|book{1}}{195}
-\indexentry{Standard libraries|book{1}}{197}
-\indexentry{site modules|book{1}}{198}
-\indexentry{site packages|book{1}}{198}
-\indexentry{sys.path|book{1}}{200}
-\indexentry{venv|book{1}}{201}
-\indexentry{virtual environment|book{1}}{202}
-\indexentry{Microsoft visual studio code|book{1}}{208}
-\indexentry{Debugger!visual code debugger|book{1}}{210}
-\indexentry{Debugger!visual code debugger interface|book{1}}{211}
-\indexentry{Debugger!debugger breakpoint options|book{1}}{212}
-\indexentry{Debugger!tracebacks|book{1}}{213}
-\indexentry{Debugger!python debugger PDB|book{1}}{214}
-\indexentry{Debugger!python -m pdb|book{1}}{214}
-\indexentry{Function!lambda|book{1}}{217}
+\indexentry{Python!environments|book{1}}{193} x
+\indexentry{Module!versions|book{1}}{194} x
+\indexentry{Python!path|book{1}}{195} x
+\indexentry{Path|book{1}}{195} x
+\indexentry{Standard libraries|book{1}}{197} x
+\indexentry{site modules|book{1}}{198} x
+\indexentry{site packages|book{1}}{198} x
+\indexentry{sys.path|book{1}}{200} x
+\indexentry{venv|book{1}}{201} x
+\indexentry{virtual environment|book{1}}{202} x
+\indexentry{Microsoft visual studio code|book{1}}{208} x
+\indexentry{Debugger!visual code debugger|book{1}}{127}
+\indexentry{Debugger!visual code debugger interface|book{1}}{211} ?^127 x
+\indexentry{Debugger!debugger breakpoint options|book{1}}{129}
+\indexentry{Debugger!tracebacks|book{1}}{125}
+\indexentry{Debugger!python debugger PDB|book{1}}{126}
+\indexentry{Debugger!python -m pdb|book{1}}{126}
 
 <-- ###
+\indexentry{Function!lambda|book{2}}{89}
 \indexentry{lambda functions|book{2}}{89}
 \indexentry{List!deep copy|book{2}}{91}
 \indexentry{deep copy lists|book{2}}{91}
+\indexentry{floats approximation|book{2}}{92}
+\indexentry{List!comprehension|book{2}}{93}
 ### -->
 
 \indexentry{for!enumerate|book{1}}{161}
 \indexentry{for!enumerate|book{1}}{163}
-\indexentry{floats approximation|book{1}}{220}
-\indexentry{List!comprehension|book{1}}{221}
+
 \indexentry{2to3|book{1}}{224}
 \indexentry{2to3!division|book{1}}{229}
 \indexentry{2to3!issues|book{1}}{224}
 \indexentry{Python!python -c|book{1}}{21}
 \indexentry{Python!python -c|book{1}}{131}
-\indexentry{Python!python -m pdb|book{1}}{214}
+\indexentry{Python!python -m pdb|book{1}}{126}
 \indexentry{Python!python -i|book{1}}{214}
 \indexentry{0b00100000|book{1}}{71}
 \indexentry{Binary!Examples|book{1}}{71}
@@ -193,46 +195,47 @@
 *****************************************************************************************************}
 
 
-\indexentry{File!Input|book{2}}{7}
-\indexentry{File!Operations|book{2}}{8}
-\indexentry{File!Methods|book{2}}{9}
-\indexentry{File!Read|book{2}}{10}
-\indexentry{File!Write|book{2}}{11}
-\indexentry{File!Read!Binary|book{2}}{Data|book{2}}{12}
-\indexentry{File!Paths|book{2}}{13}
-\indexentry{Path|book{2}}{13}
-\indexentry{File!Pathlib.Path|book{2}}{14}
-\indexentry{Path!Pathlib.Path|book{2}}{14}
-\indexentry{File!Pathlib.Path.home|book{2}}{13-14}
-\indexentry{Path!Pathlib.Path.home|book{2}}{13-14}
-\indexentry{File!Check|book{2}}{Exists|book{2}}{15}
-\indexentry{File!Directory|book{2}}{16}
-\indexentry{File!With|book{2}}{8}
-\indexentry{With|book{2}}{8}
-\indexentry{Directory|book{2}}{16}
-\indexentry{Glob|book{2}}{16}
-\indexentry{os.listdir|book{2}}{17}
-\indexentry{Path!os.listdir|book{2}}{17}
-\indexentry{Path!Glob|book{2}}{16}
-\indexentry{Path!rGlob|book{2}}{18}
-\indexentry{Path!Path.exists|book{2}}{15}
-\indexentry{Path!os.walk|book{2}}{20}
-\indexentry{Directory!Subdirectory|book{2}}{18}
-\indexentry{Glob!Wildcards|book{2}}{19}
-\indexentry{File!os.walk|book{2}}{20}
-\indexentry{os.walk|book{2}}{20}
-\indexentry{File!Find|book{2}}{20}
-\indexentry{File!Read!gzip|book{2}}{22}
-\indexentry{gzip|book{2}}{22}
-\indexentry{File!Read!zlib|book{2}}{22}
-\indexentry{zlib|book{2}}{22}
-\indexentry{Regex|book{2}}{27}
-\indexentry{Regex!re|book{2}}{28}
+\indexentry{File!Input|book{3}}{6}
+\indexentry{File!Operations|book{3}}{7}
+\indexentry{File!Methods|book{3}{8}
+\indexentry{File!Read|book{3}}{9}
+\indexentry{File!Write|book{3}}{10}
+\indexentry{File!Read!Binary|book{3}}{Data|book{3}}{11}
+\indexentry{File!Paths|book{3}}{12}
+\indexentry{Path|book{3}}{12}
+\indexentry{File!Pathlib.Path|book{3}}{13}
+\indexentry{Path!Pathlib.Path|book{3}}{13}
+\indexentry{File!Pathlib.Path.home|book{3}}{14-15}
+\indexentry{Path!Pathlib.Path.home|book{3}}{14-15}
+\indexentry{File!Check|book{3}}{Exists|book{3}}{14}
+\indexentry{File!Directory|book{3}}{15}
+\indexentry{File!With|book{3}}{7}
+\indexentry{With|book{3}}{7}
+\indexentry{Directory|book{3}}{15}
+\indexentry{Glob|book{3}}{15}
+\indexentry{os.listdir|book{3}}{16}
+\indexentry{Path!os.listdir|book{3}}{16}
+\indexentry{Path!Glob|book{3}}{15}
+\indexentry{Path!rGlob|book{3}}{17}
+\indexentry{Path!Path.exists|book{3}}{14}
+\indexentry{Path!os.walk|book{3}}{19}
+\indexentry{Directory!Subdirectory|book{3}}{17}
+\indexentry{Glob!Wildcards|book{3}}{18}
+\indexentry{File!os.walk|book{3}}{19}
+\indexentry{os.walk|book{3}}{19}
+\indexentry{File!Find|book{3}}{19}
+\indexentry{File!Read!gzip|book{3}}{21}
+\indexentry{gzip|book{3}}{21}
+\indexentry{File!Read!zlib|book{3}}{21}
+\indexentry{zlib|book{3}}{21}
+\indexentry{Regex|book{3}}{26}
+\indexentry{Regex!re|book{3}}{27}
 \indexentry{re \goto Regex|comment}{0}
-\indexentry{Regex!re!match|book{2}}{28}
-\indexentry{Regex!re!search|book{2}}{28}
-\indexentry{Regex!re!findall|book{2}}{28}
-\indexentry{Regex!Rules|book{2}}{29-30}
+\indexentry{Regex!re!match|book{3}}{27}
+\indexentry{Regex!re!search|book{3}}{27}
+\indexentry{Regex!re!findall|book{3}}{27}
+\indexentry{Regex!Rules|book{3}}{28-29}
+
 \indexentry{Regex!Escape Characters|book{2}}{31}
 \indexentry{Escape Characters|book{2}}{31}
 \indexentry{String!Escape Characters|book{2}}{31}

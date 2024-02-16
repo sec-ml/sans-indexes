@@ -428,15 +428,16 @@
 \indexentry{Authentication!Captchas|book{4}}{104}
 \indexentry{Captchas|book{4}}{104}
 
-\indexentry{Pen Test!Use case|book{2}}{232}
-\indexentry{Python!Backdoor|book{2}}{233}
-\indexentry{Backdoor|book{2}}{233}
-\indexentry{Sockets|book{2}}{237}
-\indexentry{TCP|book{2}}{237}
-\indexentry{UDP|book{2}}{237}
-\indexentry{UDP!Sockets|book{2}}{239}
-\indexentry{TCP!Sockets|book{2}}{240}
-\indexentry{Sockets!Connections|book{2}}{241}
+\indexentry{Pen Test!Use case|book{5}}{4}
+\indexentry{Python!Backdoor|book{5}}{5}
+\indexentry{Backdoor|book{5}}{5}
+\indexentry{Sockets|book{5}}{9}
+\indexentry{TCP|book{5}}{9}
+\indexentry{UDP|book{5}}{9}
+\indexentry{UDP!Sockets|book{5}}{11}
+\indexentry{TCP!Sockets|book{5}}{12}
+\indexentry{Sockets!Connections|book{5}}{13}
+
 \indexentry{Sockets!Transmit|book{2}}{242}
 \indexentry{Sockets!Receiving|book{2}}{242}
 \indexentry{Sockets!bind listen accept|book{2}}{241}

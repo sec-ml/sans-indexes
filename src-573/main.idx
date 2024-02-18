@@ -438,25 +438,27 @@
 \indexentry{TCP!Sockets|book{5}}{12}
 \indexentry{Sockets!Connections|book{5}}{13}
 
-\indexentry{Sockets!Transmit|book{2}}{242}
-\indexentry{Sockets!Receiving|book{2}}{242}
-\indexentry{Sockets!bind listen accept|book{2}}{241}
-\indexentry{Sockets!socket.ntohs(0x0003)|book{2}}{123}
-\indexentry{TCP!Client|book{2}}{243}
-\indexentry{TCP!Server Example|book{2}}{244}
-\indexentry{filegrabber.py|book{2}}{250}
-\indexentry{Exception|book{2}}{253-257}
-\indexentry{try/except/else|book{2}}{255-257}
-\indexentry{DNS Queries|book{2}}{238}
-\indexentry{Subprocesses|book{2}}{263}
-\indexentry{Process|book{2}}{Execution|book{2}}{264}
-\indexentry{Subprocesses!Popen|book{2}}{265}
-\indexentry{Subprocesses!Pipe|book{2}}{265}
-\indexentry{Subprocesses!wait|book{2}}{264-265}
-\indexentry{Popen|book{2}}{265}
-\indexentry{Pipe|book{2}}{265}
-\indexentry{.exe|book{2}}{271-273}
-\indexentry{PyInstaller|book{2}}{271-273}
+\indexentry{Sockets!Transmit|book{5}}{14}
+\indexentry{Sockets!Receiving|book{5}}{14}
+\indexentry{Sockets!bind listen accept|book{5}}{13}
+\indexentry{Sockets!socket.ntohs(0x0003)|book{2}}{123} x
+\indexentry{TCP!Client|book{5}}{15}
+\indexentry{TCP!Server Example|book{5}}{16}
+\indexentry{filegrabber.py|book{2}}{250} x?
+\indexentry{Exception|book{5}}{25-29}
+\indexentry{try/except/else|book{5}}{27-29}
+\indexentry{DNS Queries|book{5}}{238}
+\indexentry{Subprocesses|book{5}}{35}
+\indexentry{Process|book{5}}{Execution|book{2}}{36}
+\indexentry{Subprocesses!Popen|book{5}}{37}
+\indexentry{Subprocesses!Pipe|book{5}}{37}
+\indexentry{Subprocesses!wait|book{5}}{36-37}
+\indexentry{Popen|book{5}}{37}
+\indexentry{Pipe|book{5}}{37}
+\indexentry{Subprocesses!run|book{5}}{38}
+\indexentry{netcat|book{5}}{39}
+\indexentry{.exe|book{5}}{45-47}
+\indexentry{PyInstaller|book{5}}{45-47}
 \indexentry{Reputation|book{2}}{Filters|book{2}}{278}
 \indexentry{send|book{2}}{242}
 \indexentry{recv|book{2}}{242}

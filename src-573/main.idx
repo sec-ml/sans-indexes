@@ -437,7 +437,6 @@
 \indexentry{UDP!Sockets|book{5}}{11}
 \indexentry{TCP!Sockets|book{5}}{12}
 \indexentry{Sockets!Connections|book{5}}{13}
-
 \indexentry{Sockets!Transmit|book{5}}{14}
 \indexentry{Sockets!Receiving|book{5}}{14}
 \indexentry{Sockets!bind listen accept|book{5}}{13}
@@ -449,7 +448,7 @@
 \indexentry{try/except/else|book{5}}{27-29}
 \indexentry{DNS Queries|book{5}}{238}
 \indexentry{Subprocesses|book{5}}{35}
-\indexentry{Process|book{5}}{Execution|book{2}}{36}
+\indexentry{Process|book{5}}{Execution|book{5}}{36}
 \indexentry{Subprocesses!Popen|book{5}}{37}
 \indexentry{Subprocesses!Pipe|book{5}}{37}
 \indexentry{Subprocesses!wait|book{5}}{36-37}
@@ -459,64 +458,67 @@
 \indexentry{netcat|book{5}}{39}
 \indexentry{.exe|book{5}}{45-47}
 \indexentry{PyInstaller|book{5}}{45-47}
-\indexentry{Reputation|book{2}}{Filters|book{2}}{278}
-\indexentry{send|book{2}}{242}
-\indexentry{recv|book{2}}{242}
-\indexentry{send!limitations|book{2}}{283}
-\indexentry{recv!limitations|book{2}}{283}
-\indexentry{send!vs|book{2}}{sendall|book{2}}{284}
-\indexentry{send!sendall|book{2}}{284-285}
-\indexentry{recv!recvall|book{2}}{286-287}
-\indexentry{recv!recvall!fixed-byte|book{2}}{288}
-\indexentry{recv!recvall!delimiter-based|book{2}}{289}
-\indexentry{recv!recvall!timeout-based non-blocking sockets|book{2}}{290}
-\indexentry{non-blocking sockets|book{2}}{291}
-\indexentry{Sockets!non-blocking sockets|book{2}}{291}
-\indexentry{Sockets!timeout-based non-blocking sockets|book{2}}{290-292}
-\indexentry{Sockets!UDP|book{2}}{239}
-\indexentry{Sockets!SOCK-DGRAM|book{2}}{239}
-\indexentry{Sockets!TCP|book{2}}{240}
-\indexentry{Sockets!SOCK-STREAM|book{2}}{240}
-\indexentry{Sockets!IPv4|book{2}}{240}
-\indexentry{Sockets!IPv6|book{2}}{240}
-\indexentry{Sockets!AF-INET|book{2}}{240}
-\indexentry{Sockets!AF-INET6|book{2}}{240}
-\indexentry{Sockets!AF-PACKET|book{2}}{123}
-\indexentry{Sockets!SOCK-RAW|book{2}}{123}
-\indexentry{Sockets!SIO-RCVALL|book{2}}{122}
-\indexentry{Sockets!RCVALL-ON|book{2}}{122}
-\indexentry{Sockets!gethostbyname|book{2}}{238}
-\indexentry{Sockets!gethostbyaddr|book{2}}{238}
-\indexentry{gethostbyname|book{2}}{238}
-\indexentry{gethostbyaddr|book{2}}{238}
-\indexentry{Sockets!send|book{2}}{242}
-\indexentry{Sockets!recv|book{2}}{242}
-\indexentry{IPv4|book{2}}{240}
-\indexentry{IPv6|book{2}}{240}
-\indexentry{recv!recvall!select.select() based|book{2}}{293-294}
-\indexentry{Backdoor!Alternatives|book{2}}{299}
-\indexentry{sys|book{2}}{300-303}
-\indexentry{stdin|book{2}}{300-303}
-\indexentry{stdout|book{2}}{300-303}
-\indexentry{stderr|book{2}}{300-303}
-\indexentry{os.dup2|book{2}}{305}
-\indexentry{Backdoor!Alternatives|book{2}}{306}
-\indexentry{Pyterpreter|book{2}}{206}
-\indexentry{Objects|book{2}}{309}
-\indexentry{Objects!Python|book{2}}{310-313}
-\indexentry{Objects!init|book{2}}{315-316}
-\indexentry{Unpack|book{2}}{316-319}
-\indexentry{Unpack!args|book{2}}{320-321}
-\indexentry{Unpack!kwargs|book{2}}{320-321}
-\indexentry{args|book{2}}{320-321}
-\indexentry{kwargs|book{2}}{320-321}
-\indexentry{Pyterpreter!stdio control|book{2}}{322}
-\indexentry{Modules!Load from Web|book{2}}{323-325}
-\indexentry{sys.metapath|book{2}}{324}
-\indexentry{Webimport|book{2}}{325}
-\indexentry{Remote Python|book{2}}{326}
+\indexentry{Reputation|book{5}}{Filters|book{5}}{52}
+\indexentry{send|book{5}}{14}
+\indexentry{recv|book{5}}{14}
+\indexentry{send!limitations|book{5}}{57}
+\indexentry{recv!limitations|book{5}}{57}
+\indexentry{send!vs|book{5}}{sendall|book{5}}{58}
+\indexentry{send!sendall|book{5}}{58-59}
+\indexentry{recv!recvall|book{5}}{60-62}
+\indexentry{recv!recvall!fixed-byte|book{5}}{63}
+\indexentry{recv!recvall!delimiter-based|book{5}}{64}
+\indexentry{recv!recvall!timeout-based non-blocking sockets|book{5}}{65}
+\indexentry{non-blocking sockets|book{5}}{66}
+\indexentry{Sockets!non-blocking sockets|book{5}}{66}
+\indexentry{Sockets!timeout-based non-blocking sockets|book{5}}{65-67}
+\indexentry{Sockets!UDP|book{5}}{11}
+\indexentry{Sockets!SOCK-DGRAM|book{5}}{11}
+\indexentry{Sockets!TCP|book{5}}{12}
+\indexentry{Sockets!SOCK-STREAM|book{5}}{12}
+\indexentry{Sockets!IPv4|book{5}}{12}
+\indexentry{Sockets!IPv6|book{5}}{12}
+\indexentry{Sockets!AF-INET|book{5}}{12}
+\indexentry{Sockets!AF-INET6|book{5}}{12}
+\indexentry{Sockets!AF-PACKET|book{2}}{123}x
+\indexentry{Sockets!SOCK-RAW|book{2}}{123}x
+\indexentry{Sockets!SIO-RCVALL|book{2}}{122}x
+\indexentry{Sockets!RCVALL-ON|book{2}}{122}x
+\indexentry{Sockets!gethostbyname|book{5}}{10}
+\indexentry{Sockets!gethostbyaddr|book{5}}{10}
+\indexentry{gethostbyname|book{5}}{10}
+\indexentry{gethostbyaddr|book{5}}{10}
+\indexentry{Sockets!send|book{5}}{14}
+\indexentry{Sockets!recv|book{5}}{14}
+\indexentry{IPv4|book{5}}{12}
+\indexentry{IPv6|book{5}}{12}
+\indexentry{recv!recvall!select.select() based|book{5}}{68-69}
+\indexentry{Backdoor!Alternatives|book{5}}{74}
+\indexentry{sys|book{5}}{75-58}
+\indexentry{stdin|book{5}}{75-58}
+\indexentry{stdout|book{5}}{75-58}
+\indexentry{stderr|book{5}}{75-58}
+\indexentry{os.dup2|book{5}}{80}
+\indexentry{Backdoor!Alternatives|book{5}}{81}
+\indexentry{Pyterpreter|book{5}}{81}
+\indexentry{Objects|book{5}}{84}
+\indexentry{PEP8!ClassNames|book{5}}{84}
+\indexentry{Objects!Add Attributes|book{5}}{87}
+\indexentry{Objects!Python|book{5}}{85-88}
+\indexentry{Objects!init|book{5}}{87-89}
+\indexentry{Tuple!packing|book{5}}{92}
+\indexentry{Unpack|book{5}}{93-95}
+\indexentry{Unpack!args|book{5}}{96-98}
+\indexentry{Unpack!kwargs|book{5}}{96-98}
+\indexentry{args|book{5}}{96-98}
+\indexentry{kwargs|book{5}}{96-98}
+\indexentry{Pyterpreter!stdio control|book{5}}{98}
+\indexentry{Modules!Load from Web|book{5}}{99-101}
+\indexentry{sys.metapath|book{5}}{100}
+\indexentry{Webimport|book{5}}{101}
+\indexentry{Remote Python|book{5}}{102}
 \indexentry{Images!PIL \goto PIL|comment}{0}
-\indexentry{Process Execution|book{2}}{263-268}
+\indexentry{Process Execution|book{5}}{35-40}
 
 
 \comment{********************************************************************************************
@@ -525,10 +527,10 @@
 
 \indexentry{Strings|book{W}}{1-2}
 \indexentry{Function|book{W}}{1-3}
-\indexentry{Modules|book{W}}{1-2}
-\indexentry{Dictionary|book{W}}{2-2}
-\indexentry{virtual environment|book{W}}{2-3}
-\indexentry{Debugging|book{W}}{2-3}
+\indexentry{Modules|book{W}}{1-2}x
+\indexentry{Dictionary|book{W}}{2-3}
+\indexentry{virtual environment|book{W}}{2-3}x
+\indexentry{Debugging|book{W}}{1-4}
 \indexentry{2to3|book{W}}{2-4}
 \indexentry{File|book{W}}{3-1}
 \indexentry{Regex|book{W}}{3-2}

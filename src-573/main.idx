@@ -78,7 +78,7 @@
 \indexentry{if else|book{1}}{120}
 \indexentry{if elif|book{1}}{122}
 
-\indexentry{Modules|book{1}}{125}
+\indexentry{Modules|book{2}}{4}
 \indexentry{Modules!built in|book{2}}{5}
 \indexentry{Modules!built in!sys|book{2}}{5}
 \indexentry{Modules!built in!subprocess|book{2}}{5}
@@ -153,9 +153,9 @@
 \indexentry{sys.path|book{2}}{23}
 \indexentry{venv|book{2}}{24}
 \indexentry{virtual environment|book{2}}{24}
-\indexentry{Microsoft visual studio code|book{1}}{208} x
+\indexentry{Microsoft visual studio code|book{1}}{103}
 \indexentry{Debugger!visual code debugger|book{1}}{127}
-\indexentry{Debugger!visual code debugger interface|book{1}}{211} ?^127 x
+\indexentry{Debugger!visual code debugger interface|book{1}}{128}
 \indexentry{Debugger!debugger breakpoint options|book{1}}{129}
 \indexentry{Debugger!tracebacks|book{1}}{125}
 \indexentry{Debugger!python debugger PDB|book{1}}{126}

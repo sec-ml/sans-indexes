@@ -1,10 +1,11 @@
 
 \comment{********************************************************************************************
-                                       573.1-2 SECTION
+                                       573.1 SECTION
 *****************************************************************************************************}
 
 \indexentry{PEP|book{1}}{14}
 \indexentry{Python!Interpreter|book{1}}{15}
+\indexentry{Python -c|book{1}}{16}
 \indexentry{Print|book{1}}{20}
 \indexentry{Print!Format Specifier|book{1}}{62-64}
 \indexentry{Variable|book{1}}{23}
@@ -20,7 +21,6 @@
 \indexentry{Strings|book{1}}{59}
 \indexentry{Strings!.format|book{1}}{61}
 \indexentry{Strings!fstring|book{1}}{64}
-###\indexentry{Strings!cstyle|book{1}}{68}
 \indexentry{Strings!raw strings|book{1}}{65}
 \indexentry{Bytes|book{1}}{66}
 \indexentry{ASCII|book{1}}{68}
@@ -49,10 +49,8 @@
 \indexentry{Immutable|book{1}}{84}
 \indexentry{Mutable|book{1}}{84}
 \indexentry{Strings!find|book{1}}{87}
-
 \indexentry{Function!arguments|book{1}}{92}
 \indexentry{Function!return|book{1}}{94}
-#\indexentry{name|book{1}}{133-135}
 \indexentry{Syntax!spacing|book{1}}{96}
 \indexentry{Syntax!white space|book{1}}{96}
 \indexentry{Syntax!namespaces|book{1}}{98}
@@ -77,6 +75,29 @@
 \indexentry{FALSE|book{1}}{118}
 \indexentry{if else|book{1}}{120}
 \indexentry{if elif|book{1}}{122}
+\indexentry{Microsoft visual studio code|book{1}}{103}
+\indexentry{Debugger!visual code debugger|book{1}}{127}
+\indexentry{Debugger!visual code debugger interface|book{1}}{128}
+\indexentry{Debugger!debugger breakpoint options|book{1}}{129}
+\indexentry{Debugger!tracebacks|book{1}}{125}
+\indexentry{Debugger!python debugger PDB|book{1}}{126}
+\indexentry{Debugger!python -m pdb|book{1}}{126}
+\indexentry{Python!python -m pdb|book{1}}{126}
+\indexentry{0b00100000|book{1}}{67}
+\indexentry{Binary!Examples|book{1}}{67}
+\indexentry{Hex!Examples|book{1}}{67}
+\indexentry{Decimal!Examples|book{1}}{67}
+\indexentry{ASCII|book{1}}{68}
+\indexentry{16-Bit UNICODE|book{1}}{69}
+\indexentry{UNICODE|book{1}}{69}
+\indexentry{Hex!Encoding|book{1}}{73}
+\indexentry{UTF-8|book{1}}{70}
+\indexentry{bytes().decode()|book{1}}{71}
+\indexentry{str().encode()|book{1}}{71}
+
+\comment{********************************************************************************************
+                                       573.2 SECTION
+*****************************************************************************************************}
 
 \indexentry{Modules|book{2}}{4}
 \indexentry{Modules!built in|book{2}}{5}
@@ -89,7 +110,6 @@
 \indexentry{Modules!built in!pdb|book{2}}{5}
 \indexentry{Modules!built in!hashlib|book{2}}{5}
 \indexentry{Modules!built in!https|book{2}}{5}
-#\indexentry{Modules!importlib.reload|book{W}}{1-4}
 \indexentry{Modules!third party|book{2}}{6}
 \indexentry{Modules!third party! beautiful soup|book{2}}{6}
 \indexentry{Modules!third party! requests|book{2}}{6}
@@ -142,7 +162,6 @@
 \indexentry{Dictionary!speciality!counter|book{2}}{83}
 \indexentry{counter|book{2}}{83}
 \indexentry{Dictionary!.get|book{2}}{87}
-### -->
 \indexentry{Python!environments|book{2}}{17}
 \indexentry{Module!versions|book{2}}{17}
 \indexentry{Python!path|book{2}}{18}
@@ -153,45 +172,19 @@
 \indexentry{sys.path|book{2}}{23}
 \indexentry{venv|book{2}}{24}
 \indexentry{virtual environment|book{2}}{24}
-\indexentry{Microsoft visual studio code|book{1}}{103}
-\indexentry{Debugger!visual code debugger|book{1}}{127}
-\indexentry{Debugger!visual code debugger interface|book{1}}{128}
-\indexentry{Debugger!debugger breakpoint options|book{1}}{129}
-\indexentry{Debugger!tracebacks|book{1}}{125}
-\indexentry{Debugger!python debugger PDB|book{1}}{126}
-\indexentry{Debugger!python -m pdb|book{1}}{126}
-
+\indexentry{Windows virtual environment|book{2}}{29}
 \indexentry{Function!lambda|book{2}}{89}
 \indexentry{lambda functions|book{2}}{89}
 \indexentry{List!deep copy|book{2}}{91}
 \indexentry{deep copy lists|book{2}}{91}
 \indexentry{floats approximation|book{2}}{92}
 \indexentry{List!comprehension|book{2}}{93}
-
-\indexentry{for!enumerate|book{1}}{161}
-\indexentry{for!enumerate|book{1}}{163}
-
-\indexentry{2to3|book{1}}{224}
-\indexentry{2to3!division|book{1}}{229}
-\indexentry{2to3!issues|book{1}}{224}
-\indexentry{Python!python -c|book{1}}{21}
-\indexentry{Python!python -c|book{1}}{131}
-\indexentry{Python!python -m pdb|book{1}}{126}
-\indexentry{Python!python -i|book{1}}{214}
-\indexentry{0b00100000|book{1}}{71}
-\indexentry{Binary!Examples|book{1}}{71}
-\indexentry{Hex!Examples|book{1}}{71}
-\indexentry{Decimal!Examples|book{1}}{71}
-\indexentry{ASCII|book{1}}{72}
-\indexentry{16-Bit UNICODE|book{1}}{73}
-\indexentry{UNICODE|book{1}}{73}
-\indexentry{Hex!Encoding|book{1}}{77}
-
+\indexentry{for!enumerate|book{2}}{56}
+\indexentry{for!enumerate|book{2}}{58}
 
 \comment{********************************************************************************************
-                                       573.3-5 SECTION
+                                       573.3 SECTION
 *****************************************************************************************************}
-
 
 \indexentry{File!Input|book{3}}{6}
 \indexentry{File!Operations|book{3}}{7}
@@ -304,7 +297,7 @@
 \indexentry{rdpcap|book{3}}{82}
 \indexentry{wrpcap|book{3}}{82}
 \indexentry{Scapy!Timestamp Order|book{3}}{95}
-\indexentry{Scapy!time Order|book{2}}{82} x?
+\indexentry{Scapy!time Order|book{3}}{95}
 \indexentry{Wireshark!TCP Streams|book{3}}{87}
 \indexentry{TCP Streams|book{3}}{87}
 \indexentry{Scapy!PacketLists!Sessions|book{3}}{88-89}
@@ -328,6 +321,10 @@
 \indexentry{io.BytesIO|book{3}}{108}
 \indexentry{Covert Channels|book{3}}{109}
 
+\comment{********************************************************************************************
+                                       573.4 SECTION
+*****************************************************************************************************}
+
 \indexentry{Forensics|book{4}}{4}
 \indexentry{Forensics!Artifact Carving|book{4}}{5-7}
 \indexentry{Forensics!Live Hard-Drive Carving|book{4}}{8}
@@ -339,6 +336,11 @@
 \indexentry{Windows Sniffing|book{4}}{10}
 \indexentry{Linux Live Network Capture|book{4}}{11}
 \indexentry{Linux Sniffing|book{4}}{11}
+\indexentry{Sockets!socket.ntohs(0x0003)|book{4}}{11}
+\indexentry{Sockets!AF-PACKET|book{4}}{11}
+\indexentry{Sockets!SOCK-RAW|book{4}}{11}
+\indexentry{Sockets!SIO-RCVALL|book{4}}{10}
+\indexentry{Sockets!RCVALL-ON|book{4}}{10}
 \indexentry{Images!Analyse dead/static images|book{4}}{12}
 \indexentry{PCAP|book{4}}{13}
 \indexentry{Encapsulated Structures|book{4}}{14}
@@ -374,8 +376,6 @@
 \indexentry{SQL!sqlite3|book{4}}{62-63}
 \indexentry{sqlite3|book{4}}{62-63}
 \indexentry{Windows!Registry|book{4}}{65-69}
-\indexentry{Generators|book{2}}{182} x?
-\indexentry{Generators!Yield|book{2}}{182} x?
 \indexentry{Windows!Registry!WiFi|book{4}}{70-71}
 \indexentry{Windows!Registry!Network Profiles|book{4}}{72}
 \indexentry{Windows!Registry!Date/Time Format|book{4}}{73}
@@ -428,6 +428,10 @@
 \indexentry{Authentication!Captchas|book{4}}{104}
 \indexentry{Captchas|book{4}}{104}
 
+\comment{********************************************************************************************
+                                       573.5 SECTION
+*****************************************************************************************************}
+
 \indexentry{Pen Test!Use case|book{5}}{4}
 \indexentry{Python!Backdoor|book{5}}{5}
 \indexentry{Backdoor|book{5}}{5}
@@ -440,10 +444,8 @@
 \indexentry{Sockets!Transmit|book{5}}{14}
 \indexentry{Sockets!Receiving|book{5}}{14}
 \indexentry{Sockets!bind listen accept|book{5}}{13}
-\indexentry{Sockets!socket.ntohs(0x0003)|book{2}}{123} x
 \indexentry{TCP!Client|book{5}}{15}
 \indexentry{TCP!Server Example|book{5}}{16}
-\indexentry{filegrabber.py|book{2}}{250} x?
 \indexentry{Exception|book{5}}{25-29}
 \indexentry{try/except/else|book{5}}{27-29}
 \indexentry{DNS Queries|book{5}}{238}
@@ -480,10 +482,7 @@
 \indexentry{Sockets!IPv6|book{5}}{12}
 \indexentry{Sockets!AF-INET|book{5}}{12}
 \indexentry{Sockets!AF-INET6|book{5}}{12}
-\indexentry{Sockets!AF-PACKET|book{2}}{123}x
-\indexentry{Sockets!SOCK-RAW|book{2}}{123}x
-\indexentry{Sockets!SIO-RCVALL|book{2}}{122}x
-\indexentry{Sockets!RCVALL-ON|book{2}}{122}x
+\indexentry{Sockets!SOCK-RAW|book{5}}{9}
 \indexentry{Sockets!gethostbyname|book{5}}{10}
 \indexentry{Sockets!gethostbyaddr|book{5}}{10}
 \indexentry{gethostbyname|book{5}}{10}
@@ -520,19 +519,18 @@
 \indexentry{Images!PIL \goto PIL|comment}{0}
 \indexentry{Process Execution|book{5}}{35-40}
 
-
 \comment{********************************************************************************************
                                       WORKSHOP BOOK SECTION
 *****************************************************************************************************}
 
 \indexentry{Strings|book{W}}{1-2}
 \indexentry{Function|book{W}}{1-3}
-\indexentry{Modules|book{W}}{1-2}x
-\indexentry{Dictionary|book{W}}{2-3}
-\indexentry{virtual environment|book{W}}{2-3}x
 \indexentry{Debugging|book{W}}{1-4}
-\indexentry{2to3|book{W}}{2-4}
-\indexentry{File|book{W}}{3-1}
+\indexentry{virtual environment|book{W}}{2-1}
+\indexentry{modules|book{W}}{2-1}
+\indexentry{Lists|book{W}}{2-2}
+\indexentry{Dictionary|book{W}}{2-3}
+\indexentry{File I/O|book{W}}{3-1}
 \indexentry{Regex|book{W}}{3-2}
 \indexentry{Log file analysis|book{W}}{3-3}
 \indexentry{Packet Analysis|book{W}}{3-4}

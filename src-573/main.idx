@@ -12,6 +12,9 @@
 \indexentry{Function|book{1}}{89}
 \indexentry{Assignment|book{1}}{26-27}
 \indexentry{Types!Reassign|book{1}}{27}
+\indexentry{division|book{1}}{29}
+\indexentry{//|book{1}}{29}
+\indexentry{floor \goto //|comment}{0}
 \indexentry{Operators!Math|book{1}}{29}
 \indexentry{Math Operators|book{1}}{29}
 \indexentry{base2|book{1}}{32}
@@ -315,6 +318,10 @@
 \indexentry{Packet Analysis!IP Packet Fragmentation|book{3}}{103}
 \indexentry{Packet Analysis!Overlapping Fragments|book{3}}{104}
 \indexentry{Packet Analysis!OS Dependent Reassembly|book{3}}{105}
+\indexentry{Packet Analysis!Printer/HP Reassembly|book{3}}{105}
+\indexentry{Packet Analysis!BSD Reassembly|book{3}}{105}
+\indexentry{Packet Analysis!Linux Reassembly|book{3}}{105}
+\indexentry{Packet Analysis!Windows Reassembly|book{3}}{105}
 \indexentry{Packet Analysis!reassembly.py|book{3}}{106-107}
 \indexentry{reassembly.py|book{3}}{106-107}
 \indexentry{io.StringIO|book{3}}{108}

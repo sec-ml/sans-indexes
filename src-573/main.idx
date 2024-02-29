@@ -44,6 +44,7 @@
 \indexentry{Strings!methods!lower|book{1}}{78}
 \indexentry{Strings!methods!title|book{1}}{78}
 \indexentry{Strings!methods!replace|book{1}}{78}
+\indexentry{Strings!methods!replace(old, new, count)|comment}{0}
 \indexentry{Strings!methods!in|book{1}}{78}
 \indexentry{Strings!methods!split|book{1}}{78}
 \indexentry{Strings!methods!count|book{1}}{78}
@@ -78,6 +79,7 @@
 \indexentry{FALSE|book{1}}{118}
 \indexentry{if else|book{1}}{120}
 \indexentry{if elif|book{1}}{122}
+\indexentry{if var doesn't exist - error|comment}{0}
 \indexentry{Microsoft visual studio code|book{1}}{103}
 \indexentry{Debugger!visual code debugger|book{1}}{127}
 \indexentry{Debugger!visual code debugger interface|book{1}}{128}
@@ -141,6 +143,7 @@
 \indexentry{List!map|book{2}}{46}
 \indexentry{List!sorting|book{2}}{47}
 \indexentry{sorting|book{2}}{47}
+\indexentry{sorting packets \goto Packet Analysis -> Sorting Packets|comment}{0}
 \indexentry{sort vs sorted|book{2}}{48}
 \indexentry{for|book{2}}{52}
 \indexentry{while|book{2}}{59}
@@ -201,6 +204,8 @@
 \indexentry{Path!Pathlib.Path|book{3}}{13}
 \indexentry{File!Pathlib.Path.home|book{3}}{14-15}
 \indexentry{Path!Pathlib.Path.home|book{3}}{14-15}
+\indexentry{Home .home() - get current user home dir|comment}{0}
+\indexentry{Path! .home() - get current user home dir|comment}{0}
 \indexentry{File!Check|book{3}}{Exists|book{3}}{14}
 \indexentry{File!Directory|book{3}}{15}
 \indexentry{File!With|book{3}}{7}
@@ -455,6 +460,8 @@
 \indexentry{TCP!Server Example|book{5}}{16}
 \indexentry{Exception|book{5}}{25-29}
 \indexentry{try/except/else|book{5}}{27-29}
+\indexentry{try continue|book{5}}{28}
+\indexentry{continue \goto try continue|comment}{0}
 \indexentry{DNS Queries|book{5}}{238}
 \indexentry{Subprocesses|book{5}}{35}
 \indexentry{Process|book{5}}{Execution|book{5}}{36}
